@@ -18,9 +18,10 @@ Requisitos:
 Biblioteca openpyxl para trabajar con archivos Excel
 
 Uso
-
-Ejecuta el script Python.
-
-Ingresa los nombres y notas de tres estudiantes cuando se te solicite.
-
-Revisa el archivo generado ejercicio3.xlsx en tu directorio actual.
+ 1. Clonar repositorio( git clone <URL-del-repositorio> )
+ 2. Crea un entorno virtual dentro de tu proyecto.( python -m venv .venv)
+ 3. Activa el entorno virtual. (.venv\Scripts\activate.bat)
+ 4. instala las dependendias desde el archivo requirements.txt ( pip install -r requirements.txt)
+ 5. Ejecuta el script Python.
+ 6. Ingresa los nombres y notas de tres estudiantes cuando se te solicite.
+ 7. Revisa el archivo generado ejercicio3.xlsx en tu directorio actual.
